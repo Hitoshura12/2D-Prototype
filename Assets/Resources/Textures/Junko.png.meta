@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 6c42b6b3a9c95db4cbb8e0d1a3ba95e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2889063007491121388
+    second: Junko_0
+  - first:
+      213: -8640439908923303352
+    second: Junko_1
+  - first:
+      213: -2004345104611047021
+    second: Junko_2
+  - first:
+      213: 5657798115773251986
+    second: Junko_3
+  - first:
+      213: 1815993622898943831
+    second: Junko_4
+  - first:
+      213: -7350339452790490312
+    second: Junko_5
+  - first:
+      213: 2137637336515882474
+    second: Junko_6
+  - first:
+      213: 8911867340568035191
+    second: Junko_7
+  - first:
+      213: 3642060563179985244
+    second: Junko_8
+  - first:
+      213: 5536634323155720399
+    second: Junko_9
+  - first:
+      213: 4638601278210277350
+    second: Junko_10
+  - first:
+      213: 2973890457910002371
+    second: Junko_11
+  - first:
+      213: -3933695911657587968
+    second: Junko_12
+  - first:
+      213: 3649153340420484475
+    second: Junko_13
+  - first:
+      213: -1841215010443212540
+    second: Junko_14
+  - first:
+      213: -6328393362687810970
+    second: Junko_15
+  - first:
+      213: -4246970533775602864
+    second: Junko_16
+  - first:
+      213: 4240017360080779243
+    second: Junko_17
+  - first:
+      213: 1615038542219428665
+    second: Junko_18
+  - first:
+      213: 7102865435842039522
+    second: Junko_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Junko_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2263.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0ea379f73081820800000000000000
+      internalID: 2889063007491121388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2263.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a948d8eadf61880800000000000000
+      internalID: -8640439908923303352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_2
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 2263.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3998d503fb22f24e0800000000000000
+      internalID: -2004345104611047021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_3
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 2263.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2910a85f869848e40800000000000000
+      internalID: 5657798115773251986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1700.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75724471494b33910800000000000000
+      internalID: 1815993622898943831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1700.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b32e126395ef990800000000000000
+      internalID: -7350339452790490312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_6
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1700.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed24a5f4d96aad10800000000000000
+      internalID: 2137637336515882474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_7
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1700.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f76ff01205dab70800000000000000
+      internalID: 8911867340568035191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1137.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c595dc629c23b8230800000000000000
+      internalID: 3642060563179985244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1137.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc89ee2259316dc40800000000000000
+      internalID: 5536634323155720399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_10
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1137.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef7562494f9f5040800000000000000
+      internalID: 4638601278210277350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_11
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 1137.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c246a87d91654920800000000000000
+      internalID: 2973890457910002371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 574.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b3e33f864b869c0800000000000000
+      internalID: -3933695911657587968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 574.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d61ba01a564a230800000000000000
+      internalID: 3649153340420484475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_14
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 574.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094a6304b0b276e0800000000000000
+      internalID: -1841215010443212540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_15
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 574.6
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662ad0214c70d28a0800000000000000
+      internalID: -6328393362687810970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11.599976
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b01ca0dcabf05c0800000000000000
+      internalID: -4246970533775602864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 11.599976
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7ba1d035197da30800000000000000
+      internalID: 4240017360080779243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_18
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 11.599976
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933cd8f4ff4c96610800000000000000
+      internalID: 1615038542219428665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Junko_19
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 11.599976
+        width: 705.25
+        height: 553.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec3c63b72729260800000000000000
+      internalID: 7102865435842039522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

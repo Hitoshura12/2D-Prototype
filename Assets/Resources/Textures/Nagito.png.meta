@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: bf86a379222deec47b82bd518e1f784f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7920989907079715492
+    second: Nagito_0
+  - first:
+      213: 3243310731893102311
+    second: Nagito_1
+  - first:
+      213: -3009322538321538230
+    second: Nagito_2
+  - first:
+      213: 7601386306487268690
+    second: Nagito_3
+  - first:
+      213: -4246450069743841225
+    second: Nagito_4
+  - first:
+      213: 3410958928463490624
+    second: Nagito_5
+  - first:
+      213: 4667135169222985043
+    second: Nagito_6
+  - first:
+      213: 8412830028179848942
+    second: Nagito_7
+  - first:
+      213: 3368873335499761137
+    second: Nagito_8
+  - first:
+      213: 3726671829427539141
+    second: Nagito_9
+  - first:
+      213: 2857741464371865558
+    second: Nagito_10
+  - first:
+      213: 8674451221606532323
+    second: Nagito_11
+  - first:
+      213: 5754739867834252316
+    second: Nagito_12
+  - first:
+      213: -2798344739999263755
+    second: Nagito_13
+  - first:
+      213: 53665920314077661
+    second: Nagito_14
+  - first:
+      213: -5364338049257351900
+    second: Nagito_15
+  - first:
+      213: -3137426455871564656
+    second: Nagito_16
+  - first:
+      213: 2820745962582583512
+    second: Nagito_17
+  - first:
+      213: -8272941884919935003
+    second: Nagito_18
+  - first:
+      213: -2757106175284272215
+    second: Nagito_19
+  - first:
+      213: 6809717936027543552
+    second: Nagito_20
+  - first:
+      213: -1814093512505955173
+    second: Nagito_21
+  - first:
+      213: -3946564653140699306
+    second: Nagito_22
+  - first:
+      213: 2068046918154871305
+    second: Nagito_23
+  - first:
+      213: 7785872516974671849
+    second: Nagito_24
+  - first:
+      213: -3553165296212471710
+    second: Nagito_25
+  - first:
+      213: 6644013131156912529
+    second: Nagito_26
+  - first:
+      213: 2547949700081653786
+    second: Nagito_27
+  - first:
+      213: 5619317329139260288
+    second: Nagito_28
+  - first:
+      213: -8080037233818094651
+    second: Nagito_29
+  - first:
+      213: -3058783284902776180
+    second: Nagito_30
+  - first:
+      213: 20893119871176972
+    second: Nagito_31
+  - first:
+      213: -755352186086652542
+    second: Nagito_32
+  - first:
+      213: -360266269680469
+    second: Nagito_33
+  - first:
+      213: -1995429487892954355
+    second: Nagito_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nagito_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3390.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad0f07a520ded60800000000000000
+      internalID: 7920989907079715492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 3390.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e653b64ded820d20800000000000000
+      internalID: 3243310731893102311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3390.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4394c0781dbc36d0800000000000000
+      internalID: -3009322538321538230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_3
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 3390.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25531b6629c8d7960800000000000000
+      internalID: 7601386306487268690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_4
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3390.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7305c7409249115c0800000000000000
+      internalID: -4246450069743841225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2827.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e638ac219265f20800000000000000
+      internalID: 3410958928463490624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_6
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2827.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355c44875bef4c040800000000000000
+      internalID: 4667135169222985043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_7
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2827.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3669665060c470800000000000000
+      internalID: 8412830028179848942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_8
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2827.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5afb71374a0ce20800000000000000
+      internalID: 3368873335499761137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_9
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2827.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cccb7bb84cc7b330800000000000000
+      internalID: 3726671829427539141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2264.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d72acb88bcb8a720800000000000000
+      internalID: 2857741464371865558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2264.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e48f454d67d16870800000000000000
+      internalID: 8674451221606532323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_12
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2264.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf90d7b61fcdf40800000000000000
+      internalID: 5754739867834252316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_13
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2264.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3d24509484a29d0800000000000000
+      internalID: -2798344739999263755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_14
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2264.5713
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17dd4ced8aeb000800000000000000
+      internalID: 53665920314077661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1701.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42557e637fa0e85b0800000000000000
+      internalID: -5364338049257351900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_16
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1701.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094dcdcd24f9574d0800000000000000
+      internalID: -3137426455871564656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_17
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1701.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d82a5d028d452720800000000000000
+      internalID: 2820745962582583512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_18
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1701.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef85e5003b903d80800000000000000
+      internalID: -8272941884919935003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_19
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1701.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a325269a8accb9d0800000000000000
+      internalID: -2757106175284272215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1138.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0082785226af08e50800000000000000
+      internalID: 6809717936027543552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_21
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1138.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cedb5df8b03d6e0800000000000000
+      internalID: -1814093512505955173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_22
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1138.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6579f669b5cfa39c0800000000000000
+      internalID: -3946564653140699306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_23
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1138.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902667f07bd23bc10800000000000000
+      internalID: 2068046918154871305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_24
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1138.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e770c88dc9fc0c60800000000000000
+      internalID: 7785872516974671849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 575.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26092031dfe90bec0800000000000000
+      internalID: -3553165296212471710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_26
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 575.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19973a5cdb6443c50800000000000000
+      internalID: 6644013131156912529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_27
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 575.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a181eeaa0c22c5320800000000000000
+      internalID: 2547949700081653786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_28
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 575.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bda83a653dbfd40800000000000000
+      internalID: 5619317329139260288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_29
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 575.5714
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3b75a12f0fddf80800000000000000
+      internalID: -8080037233818094651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12.571411
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82b77afec40d85d0800000000000000
+      internalID: -3058783284902776180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_31
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 12.571411
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01db2c8e2a3a4000800000000000000
+      internalID: 20893119871176972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_32
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 12.571411
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2858df350337485f0800000000000000
+      internalID: -755352186086652542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_33
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 12.571411
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac98f8f658befff0800000000000000
+      internalID: -360266269680469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nagito_34
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 12.571411
+        width: 679.4
+        height: 553.4286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d030dc7f37fce44e0800000000000000
+      internalID: -1995429487892954355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<dialogue  name="Katakuri" portrait="" portrait2="">
+     <texts>
+		  <text name="Test0" response="conv1" finished="false" >
+			  <contents>
+				  <content portrait="Junko_3" portrait2 ="">
+					  Hi! I am Junko here! testing dialogue object!
+				  </content>
+			  </contents>
+		  </text>
+		 <text name="conv2" response="" finished="true" >
+			 <contents>
+				 <content portrait="Junko_1" portrait2="">
+					 I am trying to check the validity of content!
+				 </content>
+			 </contents>
+		 </text>
+	  </texts>
+	<responses>
+		<response name ="conv1">
+			<responseContents>
+				<responseContent title="Me too!" next="conv2" finished="false">
+					<contents>
+						<content portrait="" portrait2="Nagito_7">
+							I think so too! go next?
+						</content>
+					</contents>
+				</responseContent>
+			</responseContents>
+		</response>
+		
+	</responses>
+	
+
+</dialogue>
